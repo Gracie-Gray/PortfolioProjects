@@ -1,2 +1,2 @@
-An in-progress collection of my data analysis projects. The first project is a SQL data exploration into two COVID related datasets titled CovidSQLExploration.sql.
-The second upload, markovChainSwiftieConcert, is a Markov Chain coded in R for a statisitical case study that will be uploaded soon.
+An in-progress collection of my data science projects. The first project titled CovidSQLExploration.sql is a SQL data exploration into two COVID related datasets.
+The second upload, markovChainSwiftieConcert, is a Markov Chain coded in R for a statisitical case study. It runs a Markov Chain simulation to find the steady state. The file sorter and the webscraper are Python projects. The file sorter sorts .png, .csv, and .txt files into folders automatically. The webscaper scrapes a Wikipedia page table and converts the cleaned data into a .csv. The Cancer AI uses TensorFlow. It identifies malignant or benign tumors with 97% accuracy.
